@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div {
+	width: 200px;
+	height: 50px;
+	margin: 5px;
+}
+#num1 {
+		background: #437878;
+}
+#num2 {
+		background: #43FF00;
+}
+#num3 {
+		background: #D400A7;
+}
+
+#num4 {
+		background: #0043FF;
+}
+

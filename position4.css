@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#container {
+	position: relative;
+	width: 200px;
+}
+#num1 {
+		background: #437878;
+		width: 200px;
+		height: 300px;
+}
+#num2 {
+		background: #43FF00;
+		position:absolute;
+		top: 20px;
+		left: 20px;
+		width: 156px;
+		height: 150px;
+		border: 2px solid red;
+}
+#num3 {
+		background: #D400A7;
+		position: absolute;
+		top: 40px;
+		left: 53px;
+		height: 50px;
+		width: 100px;
+		}
+
+
+#num4 {
+		background: #0043FF;
+		position: absolute;
+		top: 95px;
+		left: 53px;
+		height: 50px;
+		width: 100px;
+}
+
